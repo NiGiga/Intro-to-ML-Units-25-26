@@ -45,6 +45,7 @@ Throughout this course, the following concepts are implemented and analyzed:
     * K-Means Clustering
     * Hierarchical Clustering
 * **Model Evaluation:** Cross-validation, Confusion Matrices, ROC/AUC curves.
+* **Reinforcement Learning:** MDPs, Qvalues, Policy Iteration, Value Iteration
 * **Neural Networks:** Introduction to Perceptrons and MLP (Multi-Layer Perceptrons).
 
 ## 🛠️ Tech Stack & Prerequisites
@@ -55,6 +56,7 @@ The projects are written primarily in **Python** using Jupyter Notebooks. The ma
 * **Pandas** (Data manipulation)
 * **Matplotlib / Seaborn** (Data visualization)
 * **Scikit-Learn** (Machine Learning models)
+* **Gymnasium** (RL enviroments to test models)
 
 ## 🚀 Getting Started
 
