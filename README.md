@@ -57,6 +57,7 @@ The projects are written primarily in **Python** using Jupyter Notebooks. The ma
 * **Matplotlib / Seaborn** (Data visualization)
 * **Scikit-Learn** (Machine Learning models)
 * **Gymnasium** (RL enviroments to test models)
+* **Pytorch** (For NN and Deep Learning)
 
 ## 🚀 Getting Started
 
